@@ -1,8 +1,14 @@
 # HRMS-Backend
-Human Resource Management System
-*Java - Spring Boot based
-*PostgreSQL
-*Swagger UI
+## Human Resource Management System
+<ul>
+  
+
+  <li>Java - Spring Boot based</li>
+
+  <li>PostgreSQL</li>
+
+  <li>Swagger UI</li>
+</ul>
 
 Dependencies:
 Spring Boot DevTools
